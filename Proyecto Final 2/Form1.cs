@@ -122,8 +122,6 @@ namespace Proyecto_Final_2
                     return "https://www.google.com/maps?q=RENAP+Jutiapa+Guatemala";
                 case "SAT Jutiapa":
                     return "https://www.google.com/maps?q=SAT+Jutiapa+Guatemala";
-                case "Registro Civil Jutiapa":
-                    return "https://www.google.com/maps?q=registro+civil+Jutiapa+Guatemala";
                 case "Municipalidad de Jutiapa":
                     return "https://www.google.com/maps?q=municipalidad+de+Jutiapa+Guatemala";
                 default:
